@@ -38,6 +38,6 @@ I'm a third year informatics engineering student at UNAJ
 <h3 align="center">Contact me</h3>
 <br>	
 <div align="center">
-  <a target="_blank" href="www.linkedin.com/in/vargasalan03"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=plastic&logo=Linkedin&logoColor=white"></img></a>
+  <a target="_blank" href="https://linkedin.com/in/vargasalan03/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=plastic&logo=Linkedin&logoColor=white"></img></a>
   <a target="_blank" href="mailto:alanleandrovargas03@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=plastic&logo=Gmail&logoColor=white"></img></a>
 </div>
