@@ -16,6 +16,7 @@ I'm a third year informatics engineering student at UNAJ
   <img src="https://img.shields.io/badge/CSS3-blue?style=plastic&logo=css3&labelColor=black">
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=plastic&logo=javascript&logoColor=white&labelColor=black">
   <img src="https://img.shields.io/badge/NodeJS-green?style=plastic&logo=nodedotjs&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/TypeScript-yellow?style=plastic&logo=typescript&logoColor=white&labelColor=black">
   <img src="https://img.shields.io/badge/C%23-purple?style=plastic">
 </span>
 
